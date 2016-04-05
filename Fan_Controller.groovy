@@ -14,7 +14,7 @@
  *
  */
 /**
- *  PHOTON RELAY
+ *  PHOTON Fan
  *
  *  Author: tomforti@gmail.com
  *  Date: 2015-11-12
